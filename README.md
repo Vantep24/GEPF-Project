@@ -1,5 +1,18 @@
 # GEPF-Project
 
+Engine Progress:
+- added the base architecture for the tile system which will be responsible for the salon floor grid being used
+- came up with a draft for the core ECS Hitpoints component (this will be used for tracking customer patience later on)
+- organized the project directory structure in preparation for the asset and audio
+
+Game Progress:
+- added information to README to reflect the final version of the project that I will be working on
+- mapped out the visual states necessary for the styling process in preparation for multi-animation
+- set up main.cpp
+
+Blockers:
+- currently experiencing no blockers, I may run into some as the project timeline goes on and work becomes more complex.
+
 [Knots & Kinks as Time Shrinks]
 
 [Shevante Powell]
